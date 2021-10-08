@@ -1,6 +1,6 @@
-- <h4>👋 Hello, I’m João Gabriel.</h4>
-- <h4>👀 I’m interested in machine learning, although i don't know much about it.</h4>
-- <h4> 🌱 I’m currently learning Java.</h4>
+- <h4>👋 Hello there, my name is João Gabriel.</h4>
+- <h4>👀 I have interest in machine learning, although i don't know much about it, yet.</h4>
+- <h4> 🌱 I’m currently learning Java on Alura.</h4>
 
   
 ##
