@@ -1,12 +1,7 @@
-- <h4>👋 Olá! Meu nome é João Gabriel.</h4>
-- <h4>👀 Tenho interesse em machine learning e inteligência artificial, embora eu não saiba muito sobre o assunto(ainda).</h4>
+- <h4> Olá! Meu nome é João Gabriel.</h4>
+- <h4> Tenho interesse em machine learning e inteligência artificial, embora eu não saiba muito sobre o assunto(ainda).</h4>
 
 
-##
-- <h4>👋 Hello there! My name is João Gabriel.</h4>
-- <h4>👀 I have interest in machine learning and artificial intelligence, although i don't know much about it(yet).</h4>
-
-  
 ##
 
  <div>
