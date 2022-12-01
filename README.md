@@ -4,19 +4,13 @@
 
 ##
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Gabriel-NSilva&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  <div>
   <a href="https://github.com/Joao-Gabriel-NSilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Gabriel-NSilva&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=João Gabriel's GitHub stats"/>
-    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Gabriel-NSilva&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Gabriel-NSilva&langs_count=4&theme=radical"/>
 </div>
   
-<div style="display: inline_block"><br>
-  <a href="https://www.google.com/search?q=python">
-  <img align="center" alt="Python" height="30" width="100" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <a href="https://www.google.com/search?q=java">
-  <img align="center" alt="Java" height="30" width="100" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-</div> 
+
   
 ##
   
