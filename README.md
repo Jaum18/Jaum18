@@ -5,12 +5,7 @@
 ##
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Gabriel-NSilva&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
- <div>
-  <a href="https://github.com/Joao-Gabriel-NSilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Gabriel-NSilva&langs_count=4&theme=radical"/>
-</div>
-  
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Gabriel-NSilva&langs_count=5&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
 ##
   
