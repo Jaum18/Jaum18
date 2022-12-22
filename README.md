@@ -1,5 +1,5 @@
 - <h4> Olá! Meu nome é João Gabriel.</h4>
-- <h4> Atualmente trabalho na Atak Sistemas como Técnico em Suporte Trainee, mas almejo o setor de desenvolvimento da empresa.</h4>
+- <h4> Atualmente trabalho como desenvolvedor na Atak Sistemas.</h4>
 
 
 ##
